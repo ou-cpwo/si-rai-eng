@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Team"
+    url: /team/
+  #- title: "Organisers"
+  #  url: /organisers/
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
