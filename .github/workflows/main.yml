@@ -1,2 +1,0 @@
-- name: Web Accessibility Evaluation
-  uses: a11ywatch/github-actions@v2.1.10
